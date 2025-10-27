@@ -19,14 +19,10 @@ The company needed to better understand consumer spending patterns and behaviors
 
 #
 # Ecommerce-Sales-Dashboard
-**Description**
+**Description**:
+Analyzed e-commerce sales data to assess key performance indicators (KPIs) such as amount, profit, quantity, and average order value (AOV). Created visualizations using Power BI to identify trends, seasonality, and product performance across different categories. Integrated predictive analytics to forecast future sales and optimize marketing efforts for better customer engagement and revenue growth.
 
-- Analyzed e-commerce sales data to assess key performance indicators (KPIs) such as amount, profit, quantity, and average order value (AOV).  
-- Created visualizations using Power BI to identify trends, seasonality, and product performance across different categories.  
-- Integrated predictive analytics to forecast future sales and optimize marketing efforts for better customer engagement and revenue growth.
-
-## Key Achievements
-
+**Key Achievements**:
 - Improved overall sales performance by analyzing key KPIs and optimizing strategies.  
 - Enhanced profit margins by identifying high-performing products and customer segments.  
 - Boosted Average Order Value (AOV) and increased conversion rates through targeted marketing insights.
@@ -34,8 +30,7 @@ The company needed to better understand consumer spending patterns and behaviors
 #
 # Electric-Vehicle-Data-Analytics-for-Performance-and-Market-Trends
 **Description**:  
-- There was limited data-driven insight into electric vehicle performance and market trends, hindering strategic decisions for manufacturers. Collected and analyzed EV data using Power BI
-  and Excel to assess vehicle performance, user behavior, and market demand trends. Integrated predictive analytics for future performance forecasting. 
+There was limited data-driven insight into electric vehicle performance and market trends, hindering strategic decisions for manufacturers. Collected and analyzed EV data using Power BI and Excel to assess vehicle performance, user behavior, and market demand trends. Integrated predictive analytics for future performance forecasting. 
 - Download the dataset provided in repository or can take from the given link (recommended in csv format for easy use) - https://catalog.data.gov/dataset/electric-vehicle-population-data
 - Upload the heavy files using this YT reference video :- https://www.youtube.com/watch?v=WIdt-6-x150
 
@@ -46,14 +41,10 @@ The company needed to better understand consumer spending patterns and behaviors
 
 #
 # HR-Data-Analysis
-**Description**
+**Description**:
+This project demonstrates the application of data analytics in Human Resources (HR) to optimize employee performance, retention, and job satisfaction. Using Power BI and Excel, we analyze HR data such as employee demographics, attrition, attrition rate, salary and years at company. The insights gained from this analysis help HR teams make informed decisions for improving overall organizational effectiveness.
 
-This project demonstrates the application of data analytics in Human Resources (HR) to optimize employee performance, retention, and job satisfaction.  
-Using Power BI and Excel, we analyze HR data such as employee demographics, attrition, attrition rate, salary and years at company.  
-The insights gained from this analysis help HR teams make informed decisions for improving overall organizational effectiveness.
-
-**Key Achievements**
-
+**Key Achievements**:
 - Developed interactive Power BI dashboards to visualize employee performance, retention, and satisfaction trends.  
 - Identified key factors affecting employee retention and performance through data-driven visualizations.  
 - Enabled HR decision-making with dynamic reports that provide actionable insights into employee satisfaction and turnover.
@@ -67,6 +58,16 @@ Analyzed marketing campaign performance to identify areas for optimizing spend, 
 - Reduced overall spending through data-driven insights and campaign optimizations.  
 - Increased campaign return on investment (ROI) by optimizing marketing efforts based on performance analytics.  
 - Improved sales performance by identifying key areas for optimization across products and customer segments.
+
+#
+# Sales Overview Dashboard
+**Description**:
+The Sales Overview Dashboard provides a comprehensive analysis of Sales data across the Central, East, South, and West regions of the USA. The dashboard is designed to analyze key performance indicators (KPIs) including Sales, Profit, and Quantity. By calculating and comparing metrics for the current year (CY), previous year (PY), and year-over-year (YoY), the dashboard offers insights into performance trends and helps in making data-driven decisions.
+
+**Key Achievements**:
+- Provided a regional analysis of sales data across Central, East, South, and West USA, improving insights into regional performance.
+- Analyzed key KPIs (Sales, Profit, Quantity) and calculated YoY metrics to highlight growth trends and areas for improvement.
+- Enabled actionable insights for marketing and sales teams, optimizing strategies based on regional performance and YoY comparisons.
 
 #
 # SuperStore-Sales-Performance-and-Trend-Analysis-Dashboard
