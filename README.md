@@ -1,4 +1,4 @@
-Hey everyone, below is a list of Data Analytics projects that I've created and documented. Feel free to take a look on it !
+Hey Everyone, below is a list of Data Analytics projects that I've created and documented. Feel free to take a look on it !
 
 # Blinkit-Sales-Revenue-Analysis
 **Description**:  
