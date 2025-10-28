@@ -1,4 +1,4 @@
-Hey Everyone, below is a list of Data Analytics projects that I've created and documented. Feel free to take a look on it !
+Hey Everyone, below is a list of Data Analytics projects that I've created and documented here. Feel free to take a look on it !
 
 # Blinkit-Sales-Revenue-Analysis
 **Description**:  
@@ -62,7 +62,7 @@ Analyzed marketing campaign performance to identify areas for optimizing spend, 
 - Improved sales performance by identifying key areas for optimization across products and customer segments.
 
 #
-# Sales Overview Dashboard
+# Sales Performance Dashboard Development and Analysis
 **Description**:
 The Sales Overview Dashboard provides a comprehensive analysis of Sales data across the Central, East, South, and West regions of the USA. The dashboard is designed to analyze key performance indicators (KPIs) including Sales, Profit, and Quantity. By calculating and comparing metrics for the current year (CY), previous year (PY), and year-over-year (YoY), the dashboard offers insights into performance trends and helps in making data-driven decisions.
 
