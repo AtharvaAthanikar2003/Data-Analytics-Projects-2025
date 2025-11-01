@@ -1,6 +1,6 @@
 Hey Everyone, below is a list of Data Analytics projects that I've created and documented here. Feel free to take a look on it !
 
-# Blinkit-Sales-Revenue-Analysis
+# Blinkit Sales Revenue Analysis
 **Description**:  
 Blinkit required a reliable system to accurately forecast sales revenue and assess the various internal and external factors impacting its performance, including market trends, customer behavior, and seasonal fluctuations. Analyzed historical sales data using Excel and Power BI, building forecasting models to predict revenue trends and integrating sales data with market factors to derive actionable insights.
 
@@ -60,6 +60,34 @@ Analyzed marketing campaign performance to identify areas for optimizing spend, 
 - Reduced overall spending through data-driven insights and campaign optimizations.  
 - Increased campaign return on investment (ROI) by optimizing marketing efforts based on performance analytics.  
 - Improved sales performance by identifying key areas for optimization across products and customer segments.
+
+#
+# Meta Ad Performance Dashboard
+**Description**:  
+Created a comprehensive dashboard to analyze Meta (Facebook and Instagram) advertising campaign performance. The dashboard provides in-depth insights into key performance indicators (KPIs) such as impressions, clicks, shares, comments, purchases, engagements, click-through rate (CTR), engagement rate, conversion rate, purchase rate, total budget, and average budget per campaign. The goal is to enable data-driven decisions to optimize ad spend and improve campaign performance across both platforms.
+
+**Key Achievements**:
+- Identified trends and patterns in key KPIs to optimize budget allocation across Facebook and Instagram, improving overall campaign efficiency.  
+- Delivered actionable insights that enhanced engagement rate, CTR, and conversion rate through refined targeting strategies and creative optimization.  
+- Developed intuitive, data-driven visual reports that simplified complex performance data, enabling stakeholders to make informed, strategic decisions.
+
+## Key Metrics Analyzed:
+- **Impressions**: Total number of times ads were displayed.
+- **Clicks**: Number of times users clicked on the ads.
+- **Shares**: Number of times users shared the ads.
+- **Comments**: Engagement in the form of user comments.
+- **Purchases**: Number of completed transactions resulting from ad interactions.
+- **Engagements**: The total number of interactions including clicks, shares, and comments.
+- **Click-through Rate (CTR)**: Percentage of people who clicked the ad after viewing it.
+- **Engagement Rate**: Percentage of people who engaged with the ad (like, share, comment, click) relative to the number of impressions.
+- **Conversion Rate**: Percentage of users who completed a desired action (such as a purchase) after clicking the ad.
+- **Purchase Rate**: Percentage of users who made a purchase after engaging with the ad.
+- **Total Budget**: Total amount spent across all campaigns.
+- **Average Budget per Campaign**: Average spend per individual campaign across Facebook and Instagram.
+
+## Tools and Technologies Used:
+- **Power BI**: Used to create the interactive dashboard for visualizing ad performance data.
+- **Excel**: Data processing and initial analysis of raw campaign data.
 
 #
 # Sales Performance Dashboard Development and Analysis
